@@ -6,7 +6,7 @@ Bolsista: Bruno da Silva Almeida - IFSP (SJC)
 <p> Orientador: Ney Rafael Sêcco - ITA </p>
 
 
-<p id="Sobre">Sobre </p>
+<p id="#Sobre">Sobre </p>
 
 Um programa computacional no qual os cálculos presentes resultam em diferentes
 análises para projetos de aeronaves mais leves que o ar.
