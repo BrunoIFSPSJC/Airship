@@ -16,7 +16,12 @@ Orientador: Ney Rafael Sêcco - ITA
 
 <p>Como usar </p>
 
-### 🛠 Tecnologias
+<p align="center">
+  
+  🛠 Tecnologias
+  
+</p>
+
 <p></p>
 
 <p align="justify"> Utilizamos a biblioteca Numpy, pois, ela oferece múltiplas funções matemáticas e com o propósito de criar gráficos e tabelas para que o usuário possa relacionar cada caso teste atribuído ao programa. Visando ter uma abundância de resultados analíticos utilizamos a biblioteca Matplotlib e com finalidade de formação dos cálculos aerodinâmicos utilizamos a biblioteca Ambiance. Para permitir a comparação de diferentes configurações os dados de output retornados pelo programa são armazenados em um banco de dados por meio de biblioteca Pandas e para a formação do Design of Experiments (DOE) foi utilizado a biblioteca Seaborn. </p>
