@@ -2,8 +2,8 @@
 
 Iniciação Científica - CNPq
 
-<p> Bolsista: Bruno da Silva Almeida - IFSP (SJC) </p>
-Orientador: Ney Rafael Sêcco - ITA
+Bolsista: Bruno da Silva Almeida - IFSP (SJC)  
+<p> Orientador: Ney Rafael Sêcco - ITA </p>
 
 
 Sobre
