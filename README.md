@@ -1,6 +1,34 @@
 # Airship
 
-Iniciação Científica 
+Iniciação Científica - CNPq
+
+Bolsista: Bruno da Silva Almeida - IFSP (SJC)
+Orientador: Ney Rafael Sêcco - ITA
+
+
+Sobre
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--ts-->
 
