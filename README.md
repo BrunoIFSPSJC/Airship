@@ -1,5 +1,9 @@
 # Estudo de viabilidade de uso de aeróstatos para transporte de carga.
 
+<h4 align="center"> 
+  🚀 Concluído 
+</h4>
+
 Iniciação Científica - CNPq
 
 Bolsista: Bruno da Silva Almeida - IFSP (SJC)  
