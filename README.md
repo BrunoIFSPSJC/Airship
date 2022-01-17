@@ -5,7 +5,7 @@ Iniciação Científica - CNPq
 Bolsista: Bruno da Silva Almeida - IFSP (SJC)  
 <p> Orientador: Ney Rafael Sêcco - ITA </p>
 
-<p>Sobre </p>
+<p align="center">Sobre </p>
 
 <p>Um programa computacional no qual os cálculos presentes resultam em diferentes
 análises para projetos de aeronaves mais leves que o ar.
