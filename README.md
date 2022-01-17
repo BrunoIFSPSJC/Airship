@@ -16,11 +16,11 @@ Orientador: Ney Rafael Sêcco - ITA
 
 <p>Como usar </p>
 
-<p align="center">
+<p align="center">🛠 Tecnologias</p>
   
-  🛠 Tecnologias
   
-</p>
+  
+
 
 <p></p>
 
