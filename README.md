@@ -23,5 +23,6 @@ Orientador: Ney Rafael Sêcco - ITA
    * [Sobre](#Sobre)
    * [Como usar](#como-usar)
       * [Pre Requisitos](#pre-requisitos)
+   * [Tecnologias utilizadas](#tecnologias-utilizadas)
       
 <!--te-->
