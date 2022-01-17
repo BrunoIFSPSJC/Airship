@@ -22,9 +22,9 @@ Orientador: Ney Rafael Sêcco - ITA
 
 ### 🛠 Tecnologias
 
-[Numpy](https://numpy.org/)
-[Matplotlib](https://matplotlib.org/)
-[Ambiance](https://pypi.org/project/ambiance/)
+-[Numpy](https://numpy.org/)
+-[Matplotlib](https://matplotlib.org/)
+-[Ambiance](https://pypi.org/project/ambiance/)
 
 <!--ts-->
 
