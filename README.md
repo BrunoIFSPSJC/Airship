@@ -25,6 +25,9 @@ Orientador: Ney Rafael Sêcco - ITA
 * [Numpy](https://numpy.org/)
 * [Matplotlib](https://matplotlib.org/)
 * [Ambiance](https://pypi.org/project/ambiance/)
+* [Pandas](https://pandas.pydata.org/)
+* [Matplotlib 3D](https://matplotlib.org/stable/tutorials/toolkits/mplot3d.html)
+* [Seaborn](https://seaborn.pydata.org/)
 
 ### Tabela de conteúdos
 
