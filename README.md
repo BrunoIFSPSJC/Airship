@@ -5,14 +5,14 @@ Iniciação Científica - CNPq
 Bolsista: Bruno da Silva Almeida - IFSP (SJC)  
 <p> Orientador: Ney Rafael Sêcco - ITA </p>
 
-<p id=>Sobre </p>
+<p>Sobre </p>
 
-Um programa computacional no qual os cálculos presentes resultam em diferentes
+<p>Um programa computacional no qual os cálculos presentes resultam em diferentes
 análises para projetos de aeronaves mais leves que o ar.
 O programa tende a analisar as principais áreas de estudos e projetos de um di
 rigível, com objetivo de entregar todas as análises e resultados processados 
 no programa aos usuários para que as informações possam ser utilizadas em pro
-jetos conceituais de dirigíveis.
+jetos conceituais de dirigíveis.</p>
 
 <p id="como-usar">Como usar </p>
 
